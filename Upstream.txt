@@ -5,10 +5,6 @@
 [/dns.resolver.arpa/][::]:553
 [/lan/][::]:553
 [//][::]:553
-quic://AdGuard--Home-4184c2.dns.nextdns.io:853
-quic://93e79df5.d.adguard-dns.com:853
-tls://AdGuard--Home-4184c2.dns.nextdns.io
 tls://dns.quad9.net
-https://dns.nextdns.io/4184c2/AdGuard%20Home
 https://dns.quad9.net/dns-query
 https://security.cloudflare-dns.com/dns-query
