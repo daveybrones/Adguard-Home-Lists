@@ -1,0 +1,12 @@
+||*6.2.ip6.arpa
+||*02f5e0000000.thinkpad
+||*02f5e0000000.lan
+||*wpad.lan
+||*_slds
+||*_slds.lan
+||*lss.local
+||*ldap._tcp
+||*dns-sd
+version.bind
+id.server
+hostname.bind
